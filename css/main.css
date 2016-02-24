@@ -1,0 +1,122 @@
+/*GLOBAL*/
+a{
+	text-decoration: none;
+}
+
+.hr-style{
+	line-style: gray dashed 2px;
+}
+
+.bg-white{
+	background-color: white;
+	box-shadow: 0px 4px 0px 4px #eee;
+}
+.gray-h{
+	color: #666666;
+}
+.gray{
+	color: #888888;
+}
+.magenta{
+	color: #cc0077;
+}
+/*MENU*/
+.main{
+	background-color: black;
+}
+
+a >li{
+	display: inline-block;
+	color: white;
+	margin-left: 3%;
+}
+/*logo*/
+
+.light{
+	font-family:;
+	color:white;
+}
+/*HEADER*/
+.redmore{
+	width: 30%;
+	height: 20%;
+}
+.boton{
+	
+	border-radius: 10px;
+	background-color: #777777;
+	padding: 1%;
+	margin: 5%;
+}
+.p-follow{
+	font-size: 21px;
+
+}
+.tw{
+	width: 60%;
+}
+.follow{
+	width: 35%;
+	height: 40%;
+	background-color:#777777;
+	border-radius: 4px;
+	padding-right: 4%;
+	padding-left: 4%;
+	}
+.small-font{
+font-size: 10px;}
+/*SECTION*/
+a<.gray{
+	margin-right: 2%;
+}
+.pl-7{
+	padding-left: 8%;
+}
+.leadmore{
+	width: 11%;
+	background-color:#888888;
+}
+
+/*FOOTER*/
+footer{
+	background-color: black;
+	
+}
+.icon{
+	width:4%;
+	height:4%;
+	position: center center;
+	display: inline-block;
+	padding:4px 2px 0px 2px;
+}
+.RS{
+	width: 12%;
+	border-radius: 50%;
+	border: 2px dashed #999999;
+	padding: 2%;
+	display: inline-block;
+	margin: 1%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.hrfooter{
+	margin-bottom: 5%;
+	background-color:#999999; 
+
+}
+.follow2{
+	width: 25%;
+	height: 40%;
+	background-color:#cc0077;
+	border-radius: 4px;
+	padding-right: 4%;
+	padding-left: 4%;
+	margin-top:-18px;
+	}
+	.big{
+		font-size: 420%;
+	}
+	.adress{
+		font-size: 16px;
+	}
